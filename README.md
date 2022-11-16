@@ -2,9 +2,11 @@
 This repository has the details of the nodes and edges and related IPL data used for the building the Social Network Analysis.
 1.	Begin with your dataset. If you did not submit a dataset for last week's assignment, you must include the link to a dataset. If you have changed your mind on a dataset, include it here 
 I have found another dataset, with updated data (till 2017), but my thesis statement and nodes/edges will remain same. So, I will be using the updated dataset for my analysis (attached the new link and old link below).
+
 Links to the datasets:
 Old dataset
 https://data.world/vijayabhaskar/ipl-all-match-complete-data/file/deliveries.csv
+
 Updated dataset
 https://data.world/raghu543/ipl-data-till-2017
 
